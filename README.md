@@ -1,5 +1,5 @@
 # Chord.JS
-Chord.JS is a Node.JS library for creating projects, packed with built-in (https://chordra.com/env/)[enviroment variable] configuration
+Chord.JS is a Node.JS library for creating projects, packed with built-in [enviroment variable](https://chordra.com/env/) configuration
 and many other features.
 
 ## Installation
